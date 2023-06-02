@@ -11,5 +11,4 @@ let altura2 = 5.3 ;
 
 
 let area2 = base2*altura2
-
 console.log(area2);

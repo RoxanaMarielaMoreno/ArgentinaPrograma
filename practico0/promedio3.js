@@ -16,5 +16,4 @@ let a4 = -1.2;
 let b5 = 5.3;
 let c6 = -3.3;
 let promedio3 = a*b*c/3
-
 console.log(promedio3);
