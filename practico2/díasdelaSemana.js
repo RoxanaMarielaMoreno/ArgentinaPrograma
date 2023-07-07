@@ -1,6 +1,6 @@
 const readlineSync = require('readline-sync');
 
-const numeroDia = parseInt(readlineSync.question(' 3 '));
+const numeroDia = parseInt(readline.question('Ingresa un número del 1 al 7: '));
 
 switch (numeroDia) {
   case 1:

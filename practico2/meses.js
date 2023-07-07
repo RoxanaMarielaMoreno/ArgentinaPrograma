@@ -16,7 +16,7 @@ const meses = {
   12: 'diciembre',
 };
 
-const numeroMes = readlineSync.question('4 ');
+const numeroMes = parseInt(readline.question('Ingresa un número del 1 al 12: '));
 
 const mes = meses[numeroMes];
 
